@@ -1,0 +1,6 @@
+2026-02-14 20:52:08,438 | INFO | Starting risk engine run
+2026-02-14 20:52:08,439 | INFO | Run directory: runs\2026-02-14_20-52-08_demo
+2026-02-14 20:52:08,439 | INFO | Tickers: ['AAPL', 'MSFT', 'NVDA', 'SPY']
+2026-02-14 20:52:08,439 | INFO | Date range: 2018-01-01 -> 2026-01-01
+2026-02-14 20:52:08,441 | INFO | Saved config snapshot: config_snapshot.yaml
+2026-02-14 20:52:08,808 | INFO | Saved metrics: {'tickers': ['AAPL', 'MSFT', 'NVDA', 'SPY'], 'start': '2018-01-01', 'end': '2026-01-01', 'vol_daily': 0.01791148207833706, 'vol_annual': 0.28433596315122117, 'max_drawdown': -0.4173779443858763, 'var_95': -0.028481470936255394, 'es_95': -0.0427063748274935, 'parametric_var_95': -0.028415936047070694}

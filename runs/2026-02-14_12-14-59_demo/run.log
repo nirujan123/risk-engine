@@ -1,0 +1,5 @@
+2026-02-14 12:14:59,047 | INFO | Starting risk engine run
+2026-02-14 12:14:59,048 | INFO | Run directory: runs\2026-02-14_12-14-59_demo
+2026-02-14 12:14:59,048 | INFO | Tickers: ['AAPL', 'MSFT', 'NVDA', 'SPY']
+2026-02-14 12:14:59,048 | INFO | Date range: None -> 2026-01-01
+2026-02-14 12:14:59,050 | INFO | Saved config snapshot: config_snapshot.yaml

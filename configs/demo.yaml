@@ -1,0 +1,17 @@
+run_name: demo
+universe:
+  tickers: ["AAPL", "MSFT", "NVDA", "SPY"]
+
+date_range:
+  start: "2018-01-01"
+  end: "2026-01-01"
+
+outputs:
+  base_dir: "runs"
+  save_config_snapshot: true
+
+data:
+  cache_dir: "data/cache"
+  interval: "1d"
+  auto_adjust: true
+  force_refresh: false

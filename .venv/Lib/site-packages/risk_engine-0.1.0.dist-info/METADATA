@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: risk-engine
+Version: 0.1.0
+Summary: Portfolio risk & stress testing engine
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: PyYAML>=6.0
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: yfinance>=0.2
+Requires-Dist: matplotlib>=3.7
